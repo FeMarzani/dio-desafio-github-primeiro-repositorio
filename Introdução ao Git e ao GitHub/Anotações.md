@@ -40,5 +40,4 @@
 ## ANOTAÇÕES
 O SHA-1 serve como uma função de Encriptação. Podendo ser considerada uma forma curta de representação de arquivo.
 
-
-Para espaçar em markdown é necessário adicionar duas quebras de linha. (DOIS ESPAÇOS)
+Para adicionar quebras de linha em Markdown é necessário dar duas quebras de enter.
